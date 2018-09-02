@@ -1,3 +1,15 @@
+NumericalError1b: NumericalError1b.cpp
+	g++ -o NumericalError1b NumericalError1b.cpp
+
+NumericalError1: NumericalError1.cpp
+	g++ -o NumericalError1 NumericalError1.cpp
+
+Math1: Math1.cpp
+	g++ -o Math1 Math1.cpp
+
+Rand1c: Rand1c.cpp
+	g++ -o Rand1c Rand1c.cpp
+
 Rand1b: Rand1b.cpp
 	g++ -o Rand1b Rand1b.cpp
 

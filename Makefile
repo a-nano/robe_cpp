@@ -1,3 +1,33 @@
+Rand1b: Rand1b.cpp
+	g++ -o Rand1b Rand1b.cpp
+
+Rand1: Rand1.cpp
+	g++ -o Rand1 Rand1.cpp
+
+Include1: Include1.cpp Include1.h
+	g++ -o Include1 Include1.cpp
+
+Proto1: Proto1.cpp
+	g++ -o Proto1 Proto1.cpp
+
+String2: String2.cpp
+	g++ -o String2 String2.cpp
+
+String1b: String1b.cpp
+	g++ -o String1b String1b.cpp
+
+String1: String1.cpp
+	g++ -o String1 String1.cpp
+
+Char1: Char1.cpp
+	g++ -o Char1 Char1.cpp
+
+Ref1: Ref1.cpp
+	g++ -o Ref1 Ref1.cpp
+
+Ref11b: Ref1b.cpp
+	g++ -o Ref1b Ref1b.cpp
+
 Switch1: Switch1.cpp
 	g++ -o Switch1 Switch1.cpp
 

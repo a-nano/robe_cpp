@@ -1,3 +1,6 @@
+Struct1: Struct1.cpp
+	g++ -o Struct1 Struct1.cpp
+
 Array4: Array4.cpp
 	g++ -o Array4 Array4.cpp
 

@@ -1,3 +1,21 @@
+Static1: Static1.cpp
+	g++ -o Static1 Static1.cpp
+
+Default1: Default1.cpp
+	g++ -o Default1 Default1.cpp
+
+CondOp1: CondOp1.cpp
+	g++ -o CondOp1 CondOp1.cpp
+
+CondOp1b: CondOp1b.cpp
+	g++ -o CondOp1b CondOp1b.cpp
+
+Enum1: Enum1.cpp
+	g++ -o Enum1 Enum1.cpp
+
+Struct1b: Struct1b.cpp
+	g++ -o Struct1b Struct1b.cpp
+
 Struct1: Struct1.cpp
 	g++ -o Struct1 Struct1.cpp
 

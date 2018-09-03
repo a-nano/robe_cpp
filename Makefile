@@ -1,3 +1,6 @@
+Array4: Array4.cpp
+	g++ -o Array4 Array4.cpp
+
 Null1: Null1.cpp
 	g++ -o Null1 Null1.cpp
 

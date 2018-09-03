@@ -1,3 +1,32 @@
+Escape1: Escape1.cpp
+	g++ -o Escape1 Escape1.cpp
+
+Enum1b: Enum1b.cpp
+	g++ -o Enum1b Enum1b.cpp
+
+Redef1: Redef1.cpp
+	g++ -o Redef1 Redef1.cpp
+
+Internal: Internal1.o Internal2.o
+	g++ -o Internal Internal1.o Internal2.o
+Internal1: Internal1.cpp
+	g++ -c Internal1.cpp
+Internal2: Internal2.cpp
+	g++ -c Internal2.cpp
+
+Extern: Extern1.o Extern2.o
+	g++ -o Extern Extern1.o Extern2.o
+Extern1: Extern1.cpp
+	g++ -c Extern1.o
+Extern2: Extern2.cpp
+	g++ -c Extern2.o
+
+Scope2: Scope2.cpp
+	g++ -o Scope2 Scope2.cpp
+
+Scope1: Scope1.cpp
+	g++ -o Scope1 Scope1.cpp
+
 Static1: Static1.cpp
 	g++ -o Static1 Static1.cpp
 

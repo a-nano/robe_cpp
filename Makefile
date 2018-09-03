@@ -1,3 +1,24 @@
+Constructor2: Constructor2.cpp
+	g++ -o Constructor2 Constructor2.cpp
+
+Constructor1: Constructor1.cpp
+	g++ -o Constructor1 Constructor1.cpp
+
+Class1b: Class1b.cpp
+	g++ -o Class1b Class1b.cpp
+
+Class1: Class1.cpp
+	g++ -o Class1 Class1.cpp
+
+New2: New2.cpp
+	g++ -o New2 New2.cpp
+
+New1b: New1b.cpp
+	g++ -o New1b New1b.cpp
+
+New1: New1.cpp
+	g++ -o New1 New1.cpp
+
 Escape1: Escape1.cpp
 	g++ -o Escape1 Escape1.cpp
 

@@ -1,5 +1,20 @@
+File2: File2.cpp
+	g++ -o File2 File2.cpp
 
-	g++ -o Average1 Average1.cpp
+File1: File1.cpp
+	g++ -o File1 File1.cpp
+
+StringStream2: StringStream2.cpp
+	g++ -o StringStream2 StringStream2.cpp
+
+StringStream1: StringStream1.cpp
+	g++ -o StringStream1 StringStream1.cpp
+
+String4: String4.cpp
+	g++ -o String4 String4.cpp
+
+String3: String3.cpp
+	g++ -o String3 String3.cpp
 
 Destructor1: Destructor1.cpp
 	g++ -o Destructor1 Destructor1.cpp

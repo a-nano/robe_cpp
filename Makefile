@@ -1,3 +1,6 @@
+
+	g++ -o Average1 Average1.cpp
+
 Destructor1: Destructor1.cpp
 	g++ -o Destructor1 Destructor1.cpp
 

@@ -1,3 +1,6 @@
+Destructor1: Destructor1.cpp
+	g++ -o Destructor1 Destructor1.cpp
+
 Constructor2: Constructor2.cpp
 	g++ -o Constructor2 Constructor2.cpp
 

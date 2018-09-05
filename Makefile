@@ -1,3 +1,33 @@
+Template5: Template5.cpp
+	g++ -o Template5 Template5.cpp
+
+ClassTemplate1: ClassTemplate1.cpp Array.h
+	g++ -o ClassTemplate1 ClassTemplate1.cpp
+
+Template4: Template4.cpp
+	g++ -o Template4 Template4.cpp
+
+Template3: Template3.cpp
+	g++ -o Template3 Template3.cpp
+
+Template2: Template2.cpp
+	g++ -o Template2 Template2.cpp
+
+Template1: Template1.cpp
+	g++ -o Template1 Template1.cpp
+
+Namespace4c: Namespace4c.cpp
+	g++ -o Namespace4c Namespace4c.cpp
+
+Namespace4b: Namespace4b.cpp
+	g++ -o Namespace4b Namespace4b.cpp
+
+Namespace4: Namespace4.cpp
+	g++ -o Namespace4 Namespace4.cpp
+
+Namespace3: Namespace3.cpp
+	g++ -o Namespace3 Namespace3.cpp
+
 Namespace2: Namespace2.cpp
 	g++ -o Namespace2 Namespace2.cpp
 

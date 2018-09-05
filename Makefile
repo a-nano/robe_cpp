@@ -1,3 +1,24 @@
+Exception1e: Exception1e.cpp
+	g++ -o Exception1e Exception1e.cpp
+
+Exception1d: Exception1d.cpp
+	g++ -o Exception1d Exception1d.cpp
+
+Exception1c: Exception1c.cpp
+	g++ -o Exception1c Exception1c.cpp
+
+Exception1b: Exception1b.cpp
+	g++ -o Exception1b Exception1b.cpp
+
+Exception1: Exception1.cpp
+	g++ -o Exception1 Exception1.cpp
+
+Vector2: Vector2.cpp
+	g++ -o Vector2 Vector2.cpp
+
+Vector1: Vector1.cpp
+	g++ -o Vector1 Vector1.cpp
+
 Template5: Template5.cpp
 	g++ -o Template5 Template5.cpp
 

@@ -1,3 +1,34 @@
+Namespace2: Namespace2.cpp
+	g++ -o Namespace2 Namespace2.cpp
+
+Namespace1: Namespace1.cpp
+	g++ -o Namespace1 Namespace1.cpp
+
+Input2: Input2.cpp
+	g++ -o Input2 Input2.cpp
+
+File6: File6.o File6-main.o File6.h
+	g++ -o File6 File6.o File6-main.o
+File6-sub: File6.cpp File6.h
+	g++ -c File6.cpp
+File6-main: File6-main.cpp File6.h
+	g++ -c File6-main.cpp
+
+File5b: File5b.cpp
+	g++ -o File5b File5b.cpp
+
+File5: File5.cpp
+	g++ -o File5 File5.cpp
+
+File4: File4.cpp
+	g++ -o File4 File4.cpp
+
+File3b: File3b.cpp
+	g++ -o File3b File3b.cpp
+
+File3: File3.cpp
+	g++ -o File3 File3.cpp
+
 File2: File2.cpp
 	g++ -o File2 File2.cpp
 

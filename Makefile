@@ -1,3 +1,27 @@
+Typedef1: Typedef1.cpp
+	g++ -o Typedef1 Typedef1.cpp
+
+Cast2: Cast2.cpp
+	g++ -o Cast2 Cast2.cpp
+
+Cast1: Cast1.cpp
+	g++ -o Cast1 Cast1.cpp
+
+Const2: Const2.cpp
+	g++ -o Const2 Const2.cpp
+
+StaticMember2d: StaticMember2d.cpp
+	g++ -o StaticMember2d StaticMember2d.cpp
+
+StaticMember2c: StaticMember2c.cpp
+	g++ -o StaticMember2c StaticMember2c.cpp
+
+StaticMember2b: StaticMember2b.cpp
+	g++ -o StaticMember2b StaticMember2b.cpp
+
+StaticMember2: StaticMember2.cpp
+	g++ -o StaticMember2 StaticMember2.cpp
+
 Exception5: Exception5.cpp
 	g++ -o Exception5 Exception5.cpp
 

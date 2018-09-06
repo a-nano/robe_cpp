@@ -1,3 +1,15 @@
+Exception5: Exception5.cpp
+	g++ -o Exception5 Exception5.cpp
+
+Exception4b: Exception4b.cpp
+	g++ -o Exception4b Exception4b.cpp
+
+Exception4: Exception4.cpp
+	g++ -o Exception4 Exception4.cpp
+
+Exception3: Exception3.cpp
+	g++ -o Exception3 Exception3.cpp
+
 Exception1e: Exception1e.cpp
 	g++ -o Exception1e Exception1e.cpp
 

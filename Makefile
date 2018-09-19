@@ -1,3 +1,15 @@
+MultipleInherit2b: MultipleInherit2b.cpp
+	g++ -o MultipleInherit2b MultipleInherit2b.cpp
+
+MultipleInherit3: MultipleInherit3.cpp
+	g++ -o MultipleInherit3 MultipleInherit3.cpp
+
+MultipleInherit2: MultipleInherit2.cpp
+	g++ -o MultipleInherit2 MultipleInherit2.cpp
+
+MultipleInherit1: MultipleInherit1.cpp
+	g++ -o MultipleInherit1 MultipleInherit1.cpp
+
 Typedef1: Typedef1.cpp
 	g++ -o Typedef1 Typedef1.cpp
 
